@@ -221,7 +221,12 @@ Authorization: Bearer <access_token>
 * Swagger API docs
 
 ---
+## 📸 Outputs
 
+You can view all API outputs and screenshots here:  
+👉 [Output Folder](output/)
+
+---
 ## 🏁 Conclusion
 
 This project demonstrates:
